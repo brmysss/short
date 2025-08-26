@@ -10,6 +10,10 @@
 ## 演示
 [https://url.wangwangit.com/](https://url.wangwangit.com/)
 
+## 更新
+新增了对密码的配置,参考下图,增加环境变量!
+<img width="1405" height="803" alt="Image" src="https://github.com/user-attachments/assets/f83e63fd-76a2-450a-8b30-628fc7a33768" />
+
 ## 使用 Cloudflare Pages 部署
 
 1.  **Fork 本项目**
